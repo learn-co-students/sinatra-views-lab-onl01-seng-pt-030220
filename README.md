@@ -42,3 +42,4 @@ display today's date in a `p` tag. The date should be formatted to look
 something like this `The date is Wednesday, November 18, 2015`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-views-lab'>Sinatra Views Lab II</a> on Learn.co and start learning to code for free.</p>
+==

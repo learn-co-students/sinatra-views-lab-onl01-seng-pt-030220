@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+
+<% dtn = DateTime.now %>
+<% dt1 = dtn.strftime('%A') %>
+<% dt2 = dtn.strftime('%B') %>
+<% dt3 = dtn.strftime('%d') %>
+<% dt4 = dtn.strftime('%Y') %>
+<h1><p><%= "The date is " + dt1.to_s + ", " + dt2.to_s + " " + dt3.to_s + ", " + dt4.to_s + "." %></p></h1>
